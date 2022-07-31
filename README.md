@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a senior manufacturing engineer involved in building and creating optimized way of creating things in physical space.My interest in building things turned me too digital space where I look to create and add value by building useful things in the digital space. i
+I am a senior manufacturing engineer involved in building and creating optimized way of creating things in physical space.My interest in building things turned me too digital space where I look to create and add value by building useful things in the digital space.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grr1696) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Gowtham_Rajen) 
